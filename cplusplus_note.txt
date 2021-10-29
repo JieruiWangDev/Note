@@ -1,2 +1,5 @@
- explict: 只能用于修饰类构造函数，不能用于隐式构造
- ostream   重写<<方法可以输出class 变量
+explict:    只能用于修饰类构造函数，不能用于隐式构造
+ostream：   重写<<方法可以输出class 变量
+友元函数
+make_unique     c++14特性 构造一个unique_ptr 返回一个 unique_ptr
+static_cast   https://www.cnblogs.com/chenyangchun/p/6795923.html
