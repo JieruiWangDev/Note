@@ -3,3 +3,9 @@ ostream：   重写<<方法可以输出class 变量
 友元函数
 make_unique     c++14特性 构造一个unique_ptr 返回一个 unique_ptr
 static_cast   https://www.cnblogs.com/chenyangchun/p/6795923.html
+vsCode        TODO tree/bracket Pair Colorizer/VSCode Icon/ c/c++ Extension Pack and c/c++
+c++ using     https://blog.csdn.net/weixin_39640298/article/details/84641726
+final         1.禁用继承 2.禁用重写
+lamba
+| &
+dynamic_cast static_cast
