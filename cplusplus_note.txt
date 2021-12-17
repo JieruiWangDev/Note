@@ -10,3 +10,6 @@ lamba
 | &
 dynamic_cast static_cast
 threshold fp32inference
+
+
+https://docs.nvidia.com/deeplearning/tensorrt/onnx-graphsurgeon/docs/index.html
