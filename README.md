@@ -60,4 +60,3 @@ https://zhuanlan.zhihu.com/p/366943138
 10006_yolov3-mobilenet_pvd
 10007_retina_pd
 10008_retina_petd
-![image](https://user-images.githubusercontent.com/48971355/157789417-f754391d-1840-4ccf-bb29-d72915c252d4.png)
