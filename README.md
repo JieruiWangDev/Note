@@ -3,60 +3,10 @@ For Studying
 
 post-training quantize
 per-layer per-channel
-https://zhuanlan.zhihu.com/p/366943138
-
-00001_custom_layer_inception_v2
-00001_inception_v2
-00002_inception_v2_nobn_pad
-00003_inception_v3
-00004_inception_v4
-00005_yolo_v2_960540
-00007_yolo_v2_960544
-00008_resnet18
-00009_custom_layer_resnet50
-00009_resnet50
-00010_resnet101
-00011_resnet101_v2_520_cpu
-00012_vgg
-00013_mobilenet_cus1
-00014_mobilenetssd_cus1
-00014_mobilenetssd_cus1_detout
-00014_mobilenetssd_cus1_flattenconcat
-00015_yolo_v3_mobilenet_lite
-00016_yolo_v3_spp_tvt
-00018_yolo_v3_pdvd_416
-00019_squeezenet_v1_1
-00020_tvt_model
-00021_tvt_onet
-00022_cnet
-00022_cnet_cus1
-00023_enet
-00023_enet_cus1
-00024_pfld
-00025_yolov2_mobilenet
-00026_mobilenetssd_cus2
-00026_mobilenetssd_cus2_detout
-00026_mobilenetssd_cus2_flattenconcat
-00027_mobilenet_cus2
-00028_yolo_v3_960544
-00029_head_v1
-00030_tvt_resnet50_prelu
-00031_mobilefacenet
-00032_streamax_eye_status_2
-00033_sphereface20
-00033_sphereface36e
-00034_skeleton
-00035_PoseNet
-00036_re_id
-00037_cnn_ctc_float
-00038_dfsmn_float
-00038_dfsmn_float_simfloat
-00039_tdnn_float
-00040_yitoo_float
-00041_inceptionv2_jpg
-10001_mobilenet
-10003_nodnet
-10005_retinaface
-10006_yolov3-mobilenet_pvd
-10007_retina_pd
-10008_retina_petd
+tdnn dfsmn skeleton posenet 
+https://github.com/xingyizhou/pytorch-pose-hg-3d
+https://github.com/ycszen/TorchSeg
+https://pythonawesome.com/pre-trained-speech-to-text-text-to-speech-models-and-benchmarks-made-embarrassingly-simple/
+https://github.com/XiaoMi/kaldi-onnx 语音识别网络to Onnx
+https://github.com/zijundeng/pytorch-semantic-segmentation 语义分割网络
+https://github.com/bubbliiiing/pspnet-pytorch/blob/master/predict.py pspnet
