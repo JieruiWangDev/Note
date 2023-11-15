@@ -29,3 +29,5 @@ https://github.com/Bigtuo/YOLOX-Lite（YOLOXhead+v5）
 3.       学习PP-YOLOE在pytorch框架的实现方式，实现代码位于：
 https://github.com/Gaurav14cs17/YOLOE
 
+
+www.gpu123.com/index.files/Presentation_Papers_1115_2023.rar
