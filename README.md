@@ -30,4 +30,7 @@ https://github.com/Bigtuo/YOLOX-Lite（YOLOXhead+v5）
 https://github.com/Gaurav14cs17/YOLOE
 
 
+
 www.gpu123.com/index.files/Presentation_Papers_1115_2023.rar
+
+https://intro-llm.github.io/
