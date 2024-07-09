@@ -17,7 +17,7 @@ https://android.googlesource.com/platform/test/mlts/models/+/refs/heads/master/a
 ## 1．	继续学习轻量级的算法，了解CSL-YOLO和GiraffeDet中关于轻量化骨干的做法；
 论文源码链接：
 CSL-YOLO：https://github.com/D0352276/CSL-YOLO
-                         GiraffeDet：https://github.com/damo-cv/GiraffeDet
+GiraffeDet：https://github.com/damo-cv/GiraffeDet
 ## 2．	了解关于yolov7-tiny、YOLOR和yolox现有的优化做法，查找到的资料如下：
 https://blog.csdn.net/yjcccccc/article/details/128478652 （yolov7-tiny剪枝）
 https://blog.csdn.net/yjcccccc/article/details/128329579（yolov7-tiny剪枝）
